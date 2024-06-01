@@ -11,3 +11,7 @@ Note that this repository exclusively focuses on LeetCode problems and does not 
 | [1258-article-views-i](https://github.com/andrewayyman/ProblemSolving/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/andrewayyman/ProblemSolving/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/andrewayyman/ProblemSolving/tree/master/1908-recyclable-and-low-fat-products) |
+# Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/andrewayyman/ProblemSolving/tree/master/0009-palindrome-number) |
