@@ -15,3 +15,11 @@ Note that this repository exclusively focuses on LeetCode problems and does not 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/andrewayyman/ProblemSolving/tree/master/0009-palindrome-number) |
+# Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/andrewayyman/ProblemSolving/tree/master/0001-two-sum) |
+# Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/andrewayyman/ProblemSolving/tree/master/0001-two-sum) |
