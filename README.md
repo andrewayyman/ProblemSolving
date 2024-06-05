@@ -23,6 +23,7 @@ Note that this repository exclusively focuses on LeetCode problems and does not 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/andrewayyman/ProblemSolving/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/andrewayyman/ProblemSolving/tree/master/0013-roman-to-integer) |
 # Array
 |  |
 | ------- |
@@ -31,3 +32,8 @@ Note that this repository exclusively focuses on LeetCode problems and does not 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/andrewayyman/ProblemSolving/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/andrewayyman/ProblemSolving/tree/master/0013-roman-to-integer) |
+# String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/andrewayyman/ProblemSolving/tree/master/0013-roman-to-integer) |
