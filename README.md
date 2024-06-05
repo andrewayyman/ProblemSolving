@@ -39,6 +39,7 @@ Note that this repository exclusively focuses on LeetCode problems and does not 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/andrewayyman/ProblemSolving/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/andrewayyman/ProblemSolving/tree/master/0058-length-of-last-word) |
 # Two Pointers
 |  |
 | ------- |
