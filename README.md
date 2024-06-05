@@ -28,6 +28,7 @@ Note that this repository exclusively focuses on LeetCode problems and does not 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/andrewayyman/ProblemSolving/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/andrewayyman/ProblemSolving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/andrewayyman/ProblemSolving/tree/master/0027-remove-element) |
 # Hash Table
 |  |
@@ -41,4 +42,5 @@ Note that this repository exclusively focuses on LeetCode problems and does not 
 # Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/andrewayyman/ProblemSolving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/andrewayyman/ProblemSolving/tree/master/0027-remove-element) |
