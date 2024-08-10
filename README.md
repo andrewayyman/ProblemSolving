@@ -47,3 +47,10 @@ Note that this repository exclusively focuses on LeetCode problems and does not 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/andrewayyman/ProblemSolving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/andrewayyman/ProblemSolving/tree/master/0027-remove-element) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/andrewayyman/ProblemSolving/tree/master/0197-rising-temperature) |
+<!---LeetCode Topics End-->
