@@ -53,4 +53,16 @@ Note that this repository exclusively focuses on LeetCode problems and does not 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/andrewayyman/ProblemSolving/tree/master/0197-rising-temperature) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/andrewayyman/ProblemSolving/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/andrewayyman/ProblemSolving/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/andrewayyman/ProblemSolving/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
