@@ -1,8 +1,26 @@
 public class Solution {
     public int[] GetConcatenation(int[] nums) {
-         int[] Ans = new int[nums.Length * 2];
-         nums.CopyTo(Ans, 0); // Ans =[1,2,1]
-         nums.CopyTo(Ans, nums.Length); // Ans = [1,2,1,1,2,1]
-         return Ans;
-    }
+        var n = nums.Length;
+        var newarr = new int[2*n];
+
+        if ( n>= 1 && n<= 1000 )
+        {
+            Array.Copy(nums, newarr,n );
+            for ( int i = 0; i <= nums.Length; i++ )
+            {
+                if ( i < n )
+                {
+                    newarr[i + n] = nums[i];
+                }
+                else
+                {
+                    break;
+                }
+
+            }
+            return newarr;
+
+        }
+        return new int[] { };
+            }
 }
